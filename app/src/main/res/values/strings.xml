@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">U2P1_Onboarding</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_ob1_text"/>
+    <string name="ob1_iv_description"/>
+    <string name="btn_ob1_text"/>
+    <string name="next">NEXT</string>
+    <string name="garlic">¡Discover the garlic soup!</string>
+    <string name="ob2_iv_description"/>
+    <string name="botellas">¡Blow and make bottles!</string>
+    <string name="botonSegundo">FINISH</string>
+</resources>
